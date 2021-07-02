@@ -9,8 +9,6 @@
 // https://github.com/pololu/vl53l0x-arduino
 // (see LICENSE.txt for more info)
 //
-// My version is an attempt to simplify that code and 
-// create a generic C library for Linux
 //
 
 #include <unistd.h>
